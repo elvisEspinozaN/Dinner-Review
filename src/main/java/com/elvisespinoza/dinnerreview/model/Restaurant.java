@@ -15,6 +15,7 @@ public class Restaurant {
     private String name;
     private String city;
     private String state;
+    private String zipcode;
     private String overallScore;
     private String peanutScore;
     private String eggScore;
