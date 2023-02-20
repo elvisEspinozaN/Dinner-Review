@@ -18,4 +18,5 @@ public class Review {
     private Integer eggScore;
     private Integer dairyScore;
     private String comment;
+    private ReviewStatus reviewStatus;
 }
